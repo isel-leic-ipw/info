@@ -12,15 +12,15 @@
 #### Supplementary information
 *The information below is provided for convenience, but it is incomplete, not official, may be out of date, and does not replace official institutional information.*
 
-| General Information    |                                        |
-|------------------------|----------------------------------------|
-| Scientific Area        | Computer Science and Engineering       |
-| ECTS Credit Points     | 6 credit points                        |
-| Level, Year/Semester   | Undergraduate, 2nd year / 3rd semester |
-| Language               | English or Portuguese                  |
-| Available in           | Autumn-Winter Semester (Sep. - Feb.)   |
-| In-class contact hours | 15 weeks x 4.5 hours per week in class |
-| Course Manager         | [Luís Falcão](luis.falcao@isel.pt)     |
+| General Information    |                                           |
+|------------------------|-------------------------------------------|
+| Scientific Area        | Computer Science and Engineering          |
+| ECTS Credit Points     | 6 credit points                           |
+| Level, Year/Semester   | Undergraduate, 2nd year / 3rd semester    |
+| Language               | English or Portuguese                     |
+| Available in           | Autumn-Winter Semester (Sep. - Feb.)      |
+| In-class contact hours | 15 weeks x 4.5 hours per week in class    |
+| Course Manager         | [Luís Falcão](mailto:luis.falcao@isel.pt) |
 
 #### Description
 
