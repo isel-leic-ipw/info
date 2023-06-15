@@ -10,7 +10,6 @@
 ---
 
 #### Supplementary information
-*The information below is provided for convenience, but it is incomplete, not official, may be out of date, and does not replace official institutional information.*
 
 | General Information    |                                           |
 |------------------------|-------------------------------------------|
@@ -30,3 +29,5 @@ The main development language throughout the course is JavaScript, supported in 
 #### Prerequisites
 * At least two semesters of programming experience, using any imperative or functional language.
 * Basic knowledge about IP networks.
+
+*Disclaimer: The above information is provided for convenience and does not replace official institutional information.*
