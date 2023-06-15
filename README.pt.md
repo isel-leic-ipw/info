@@ -12,15 +12,15 @@
 #### Informações suplementares
 *As informações abaixo são fornecidas por conveniência, mas estão incompletas, não são oficiais, podem estar desatualizadas e não substituem as informações institucionais oficiais.*
 
-| Informações Gerais        |                                        |
-|---------------------------|----------------------------------------|
-| Área Científica           | Informática e Computadores             |
-| Créditos ECTS             | 6 créditos                             |
-| Grau, Ano/Semestre        | Licenciatura, 2º ano / 3º semestre     |
-| Língua                    | Português ou Inglês                    |
-| Disponível em             | Semestre Outono/Inverno (Set. - Fev.)  |
-| Horas de contacto em aula | 15 semanas x 4,5 horas/semana em aula  |
-| Docente responsável       | [Luís Falcão](luis.falcao@isel.pt)     |
+| Informações Gerais        |                                           |
+|---------------------------|-------------------------------------------|
+| Área Científica           | Informática e Computadores                |
+| Créditos ECTS             | 6 créditos                                |
+| Grau, Ano/Semestre        | Licenciatura, 2º ano / 3º semestre        |
+| Língua                    | Português ou Inglês                       |
+| Disponível em             | Semestre Outono/Inverno (Set. - Fev.)     |
+| Horas de contacto em aula | 15 semanas x 4,5 horas/semana em aula     |
+| Docente responsável       | [Luís Falcão](mailto:luis.falcao@isel.pt) |
 
 #### Descrição
 ...
