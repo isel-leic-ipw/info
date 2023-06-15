@@ -10,7 +10,6 @@
 ---
 
 #### Informações suplementares
-*As informações abaixo são fornecidas por conveniência, mas estão incompletas, não são oficiais, podem estar desatualizadas e não substituem as informações institucionais oficiais.*
 
 | Informações Gerais        |                                           |
 |---------------------------|-------------------------------------------|
@@ -30,3 +29,5 @@ A principal linguagem de programação usada ao longo da unidade curricular é J
 #### Pré-requisitos
 * Pelo menos dois semestres de experiência de programação, usando linguagens imperativas ou funcionais.
 * Conhecimentos básicos sobre redes IP.
+
+*Aviso: as informações acima são fornecidas por conveniência e não substituem a informação institutional oficial.*
