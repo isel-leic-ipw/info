@@ -23,18 +23,19 @@
 
 #### Description
 
-In this course unit, we will build concrete end-to-end web applications, while keeping theory and practice intrinsically interwined, as well as maintaining a balanced focus on high-level architecture and programming details. This starts by acknowleding that, to properly program in the web environment, it's fundamental to get familiar with the architecture of the world wide web and to understand how the Hypertext Transfer Protocol (HTTP) is used to access resources identified by Uniform Resource Locators (URL).
+In this course unit, we build concrete end-to-end web applications, while keeping theory and practice intrinsically interwined, as well as maintaining a balanced focus on high-level architecture and programming details. This starts by acknowleding that, to properly program in the web environment, it's fundamental to get familiar with the architecture of the world wide web, and to understand how the Hypertext Transfer Protocol (HTTP) is used to access resources identified by Uniform Resource Locators (URL).
 
 The initial focus will be on the server-side of web applications, and on creating adequate web APIs for the resources they expose. For the persistent data storage we use a document based store, accessed directly through HTTP, which also helps to reinforce the central role of the protocol in the web ecosystem and, therefore, in this course unit.
 
-Then we briefly focus on the client-side of web applications, using both static and dynamically generated content, with subsequent course units covering these topics in more depth. The subjects of authentication and authorization are also introduced,  allowing students to end the course building a simple, yet complete, example of a web application with a typical structure.
+Then we briefly focus on the client-side of web applications, using both static and dynamically generated content, with subsequent course units covering these topics in more depth. The subjects of authentication and authorization are also introduced, allowing students to end the course building a simple, yet complete, example of a web application, with a typical implementation structure.
 
-The main development language throughout the course is JavaScript, supported in client-side by the browser and in server-side by Node.js. This platform provides a convenient single-threaded execution environment for processing multiple HTTP requests simultaneously, by taking full advantage of asynchronous input/output APIs. We will briefly explore traditional callback based asynchronous APIs, but will then focus on promise based APIs and on the async/await syntax, which will serve as a base for subsequent course units that will discuss and use related constructs in different programming languages. On the client side, the standard languages for this environment are used, namely HTML, CSS and JavaScript. 
+The main programming language used throughout the course is JavaScript, supported in server-side by Node.js platform and in client-side by the browser engine. The Node.js platform provides a single-threaded execution environment for processing multiple HTTP requests simultaneously, by taking full advantage of asynchronous input/output APIs. We briefly explore traditional callback based asynchronous APIs, but we then focus our attention on promise based APIs and on the async/await syntax, which will serve as a base for subsequent course units that will discuss and use similar constructs in different programming languages. On the client side, the standard languages for this environment are used, namely HTML, CSS and JavaScript.
 
 Special attention will be dedicated to the software architecture and design of web applications, enriching and expanding the base knowledge and experience of students about software engineering.
 
 
 #### Prerequisites
+
 * At least two semesters of programming experience, using an imperative or functional language.
 * Essential knowledge about IP networks.
 
